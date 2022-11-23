@@ -16,7 +16,6 @@
   - 달마다 돌아오는 월경(moon)
   - 구독의 주기마다 문 앞에 배송되는 특성(門)
 <br>
-<br>
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
 <br>
 <br>
