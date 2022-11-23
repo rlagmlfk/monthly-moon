@@ -12,6 +12,8 @@
 ## 1️⃣ 프로젝트 소개
 **생리대 정기구독 서비스를 중심으로, 다양한 브랜드의 여성 위생용품을 제공하는 쇼핑몰**
 <br>
+<br>
+<br>
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
 <br>
 
