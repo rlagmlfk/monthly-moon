@@ -79,7 +79,7 @@
 ### 2) 회원가입
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/register_ivcayl.png">
 
-### 3) 로그인 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) 아이디/비밀번호 찾기
+### 3) 로그인 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) 아이디/비밀번호 찾기
 
 <table>
   <tr>
