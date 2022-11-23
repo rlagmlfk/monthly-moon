@@ -74,6 +74,6 @@
 
 ## 7️⃣ 구현된 화면
 ### 1) 메인화면
-<img src="https://res.cloudinary.com/drxxdsv01/image/upload/v1668785478/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD_gzf5vr.png">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
 
 <br>
