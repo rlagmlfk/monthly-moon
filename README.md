@@ -81,8 +81,8 @@
 
 <table>
   <tr>
-    ### 3) 로그인 <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png"/></td>
-    ### 4) 아이디/비밀번호 찾기 <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png"/></td>
+    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png"/>### 3) 로그인</td>
+    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png"/>### 4) 아이디/비밀번호 찾기</td>
   </tr>
 </table>
 
