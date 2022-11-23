@@ -79,7 +79,7 @@
 ### 2) 회원가입
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/register_ivcayl.png">
 
-<div display="flex">
+<div style={display="flex"}>
 
 ### 3) 로그인
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png">
