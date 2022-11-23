@@ -79,15 +79,15 @@
 ### 2) 회원가입
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/register_ivcayl.png">
 
-<div style={display="flex"}>
-
 ### 3) 로그인
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png">
 
 ### 4) 아이디/비밀번호 찾기
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png">
-  
-</div>
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png"/></td>
+    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png"/></td>
+  </tr>
+</table>
 
 <br>
