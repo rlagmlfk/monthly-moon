@@ -11,6 +11,10 @@
 
 ## 1️⃣ 프로젝트 소개
 **생리대 정기구독 서비스를 중심으로, 다양한 브랜드의 여성 위생용품을 제공하는 쇼핑몰**
+<br>
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
+<br>
+
 - 팀명 : 세일러문(Seller-Moon)
 - 프로젝트명 : **월간;문**
   - 달마다 돌아오는 월경(moon)
@@ -72,20 +76,3 @@
 
 <br>
 
-## 7️⃣ 구현된 화면
-### 1) 메인
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
-
-### 2) 회원가입
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/register_ivcayl.png">
-
-### 3) 로그인 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) 아이디/비밀번호 찾기
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png"/></td>
-    <td valign="top"><img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png"/></td>
-  </tr>
-</table>
-
-<br>
