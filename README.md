@@ -73,7 +73,13 @@
 <br>
 
 ## 7️⃣ 구현된 화면
-### 1) 메인화면
+### 1) 메인
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
+### 2) 로그인
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png">
+### 3) 회원가입
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/register_ivcayl.png">
+### 4) 아이디/비밀번호 찾기
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/findIdpass_jv5fyo.png">
 
 <br>
