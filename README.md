@@ -74,7 +74,7 @@
 
 ## 7️⃣ 구현된 화면
 ### 1) 메인
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png" width="900" height="1000">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png" width="800" height="1000">
 
 ### 2) 로그인
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669203016/login_kfxth3.png">
